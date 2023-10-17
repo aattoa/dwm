@@ -1,0 +1,6 @@
+patches
+config.h
+dwm
+*.o
+*.orig
+*.rej
